@@ -1,0 +1,825 @@
+h1 {
+  font-size: 24px; /* original: 36px */
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 18px; /* original: 30px */
+  font-weight: bold;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+/*
+ *  CSS form www.BIBLIJA.net
+ *  Source file: http: //www.biblija.net/styles/svds.css
+ */
+
+h3 {
+  color: #a02020;
+}
+
+td {
+  font-size: 12pt;
+  padding-right: 10px;
+}
+
+/* SFMs */
+
+.h {
+  font-style: italic;
+  text-align: center;
+}
+
+.c {
+  font-weight: bolder;
+  font-size: 200%;
+  color: #a02020;
+}
+
+.ca {
+  font-weight: bolder;
+  font-size: 200%;
+  color: #009900;
+  text-indent: 0;
+}
+
+.cp {
+  font-weight: bolder;
+  font-size: 200%;
+  color: #009900;
+  text-indent: 0;
+}
+
+.c-1 {
+  font-weight: bolder;
+  font-size: 150%;
+  color: #a02020;
+}
+
+.c-2 {
+  font-weight: bolder;
+  font-size: 150%;
+  color: #a02020;
+}
+
+.v {
+  color: #a02020;
+  vertical-align: text-top;
+  font-size: 65%;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+.v-1 {
+  color: #a02020;
+  font-size: 100%;
+  font-weight: 900;
+  font-style: normal;
+  font-variant: normal;
+}
+
+.v-2 {
+  color: #a02020;
+  font-size: 80%;
+  font-weight: 900;
+  font-style: normal;
+  font-variant: normal;
+}
+
+.va {
+  color: #333099;
+  vertical-align: text-top;
+  font-size: 65%;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+.vp {
+  color: #009900;
+  vertical-align: text-top;
+  font-size: 65%;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+.mt {
+  font-weight: bold;
+  font-size: 200%;
+  margin-top: 0.3em;
+  margin-bottom: 0.6em;
+}
+
+.mt1 {
+  font-weight: bold;
+  font-size: 200%;
+  margin-top: 0.3em;
+  margin-bottom: 0.6em;
+}
+
+.mt2 {
+  font-weight: bold;
+  font-size: 150%;
+  margin-bottom: 0.3em;
+}
+
+.mt3 {
+  font-weight: bold;
+  font-size: 110%;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.3em;
+}
+
+.st {
+  font-weight: bold;
+  font-size: 150%;
+  margin-bottom: 0.3em;
+}
+
+.ms {
+  font-size: 150%;
+  color: #a02020;
+  text-transform: uppercase;
+  margin-top: 1.2em;
+}
+
+.ms1 {
+  font-size: 150%;
+  color: #a02020;
+  text-transform: uppercase;
+  margin-top: 1.2em;
+}
+
+.ms2 {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 110%;
+  color: #a02020;
+  margin-top: 1.2em;
+}
+
+.sl {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 110%;
+  color: #a02020;
+  margin-top: 1.2em;
+}
+
+.s {
+  font-weight: 500;
+  font-size: 110%;
+  color: #a02020;
+  margin-top: 0.4em;
+  margin-bottom: 0.2em;
+}
+
+.s1 {
+  font-weight: 500;
+  font-size: 110%;
+  color: #a02020;
+  margin-top: 0.4em;
+  margin-bottom: 0.2em;
+}
+
+.s2 {
+  font-style: italic;
+  font-size: 110%;
+  color: #a02020;
+  margin-top: 0.5em;
+}
+
+.s3 {
+  font-style: italic;
+  font-size: 100%;
+  text-align: left;
+  text-indent: 0;
+}
+
+.ss {
+  font-style: italic;
+  font-size: 110%;
+  color: #a02020;
+  margin-top: 0.5em;
+}
+
+.cl {
+  font-size: 150%;
+  font-variant: small-caps;
+  color: #a02020;
+  margin-top: 0.5em;
+}
+
+.sp {
+  font-size: 150%;
+  font-variant: small-caps;
+  color: #a02020;
+  margin-top: 0.5em;
+}
+
+.p {
+  text-indent: 1em;
+}
+
+.pi {
+  text-indent: 1em;
+  text-align: left;
+  margin-left: 1em;
+}
+
+.pc {
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.pr {
+  text-align: right;
+}
+
+.m {
+  text-indent: 0;
+}
+
+.mi {
+  text-align: left;
+  margin-left: 1em;
+}
+
+.li {
+  text-indent: -1em;
+  text-align: left;
+  margin-left: 2em;
+}
+
+.li1 {
+  text-indent: -1em;
+  text-align: left;
+  margin-left: 2em;
+}
+
+.li2 {
+  text-indent: -1em;
+  text-align: left;
+  margin-left: 3em;
+}
+
+.q {
+  text-align: left;
+  margin-left: 2em;
+}
+
+.q1 {
+  text-align: left;
+  margin-left: 2em;
+}
+
+.q2 {
+  text-align: left;
+  margin-left: 4em;
+}
+
+.q3 {
+  text-align: left;
+  margin-left: 6em;
+}
+
+.q4 {
+  text-align: right;
+}
+
+.qr {
+  text-align: right;
+}
+
+.q5 {
+  font-style: italic;
+}
+
+.qa {
+  font-style: italic;
+}
+
+.qc {
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.qs {
+  font-style: italic;
+  text-align: right;
+}
+
+.sla {
+  font-style: italic;
+  text-align: right;
+}
+
+.b {
+  font-size: 50%;
+}
+
+.b1 {
+  font-size: 50%;
+}
+
+.b2 {
+  font-size: 100%;
+}
+
+.b3 {
+  font-size: 150%;
+}
+
+.b4 {
+  font-size: 200%;
+}
+
+.mr {
+  font-style: italic;
+  font-size: 100%;
+  margin-bottom: 0.8em;
+}
+
+.r {
+  font-style: italic;
+  font-size: 80%;
+  margin-top: .2em;
+  margin-bottom: 0.2em;
+  color: #a02020;
+}
+
+.r-eu {
+  font-size: 80%;
+  margin-top: .2em;
+  margin-bottom: 0.2em;
+}
+
+.d {
+  font-style: italic;
+  text-align: left;
+}
+
+.ce {
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+/* Introductions */
+
+.imt {
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 200%;
+  color: #a02020;
+  text-transform: uppercase;
+  margin-bottom: 1.2em;
+}
+
+.imt1 {
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 200%;
+  color: #a02020;
+  text-transform: uppercase;
+  margin-bottom: 1.2em;
+}
+
+.imt2 {
+  font-variant: small-caps;
+  font-size: 110%;
+  color: #a02020;
+  text-transform: uppercase;
+  margin-bottom: 1.2em;
+}
+
+.is {
+  font-size: 110%;
+  color: #a02020;
+  margin-top: 0.8em;
+  margin-bottom: 0.4em;
+}
+
+.is1 {
+  font-size: 110%;
+  color: #a02020;
+  margin-top: 0.8em;
+  margin-bottom: 0.4em;
+}
+
+.is2 {
+  font-style: italic;
+  color: #a02020;
+  margin-top: 0.8em;
+  margin-bottom: 0.4em;
+}
+
+.iss {
+  font-style: italic;
+  color: #a02020;
+  margin-top: 0.8em;
+  margin-bottom: 0.4em;
+}
+
+.ip {
+  color: #222222;
+  text-align: justify;
+  text-indent: 1em;
+}
+
+.ipi {
+  color: #222222;
+  text-align: justify;
+  text-indent: 1em;
+  margin-left: 1em;
+}
+
+.ipr {
+  color: #222222;
+  text-align: right;
+}
+
+.im {
+  color: #222222;
+  text-align: justify;
+  text-indent: 0;
+}
+
+.imi {
+  color: #222222;
+  text-align: justify;
+  text-indent: 1em;
+}
+
+.imq {
+  color: #222222;
+  text-align: justify;
+  text-indent: 0;
+  font-style: italic;
+}
+
+.iq {
+  color: #222222;
+  text-align: left;
+  margin-left: 2em;
+}
+
+.iq1 {
+  color: #222222;
+  text-align: left;
+  margin-left: 2em;
+}
+
+.iq2 {
+  color: #222222;
+  text-align: left;
+  margin-left: 4em;
+}
+
+.iot {
+  font-size: 110%;
+  font-style: italic;
+  color: #222222;
+  margin-top: 0.8em;
+  margin-bottom: 0.4em;
+}
+
+.io {
+  color: #222222;
+  margin-left: 4em;
+}
+
+.io1 {
+  color: #222222;
+  margin-left: 4em;
+}
+
+.io2 {
+  color: #222222;
+  margin-left: 5em;
+}
+
+.io3 {
+  color: #222222;
+  margin-left: 6em;
+}
+
+.icr {
+  font-style: italic;
+  color: #222222;
+}
+
+/* Footnotes */
+
+.opomba-layer {
+  position: absolute; 
+  width: 200px; 
+  visibility: hidden;
+  background-color: #f8f8f8;
+  overflow: visible;
+  z-index: 6;
+  border-radius: 6px;
+  border: 1px solid #e5e5e5;
+  padding: 6px;
+  color: #333;
+  font-size: 90%;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  word-spacing: normal;
+  letter-spacing: normal;
+  vertical-align: baseline;
+  text-transform: none;
+  text-align: left;
+  text-indent: 0;
+  line-height: normal;
+}
+
+.f {
+  color: #333;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+.fr {
+  color: #333;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+}
+
+.fr-1 {
+  color: #333;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+}
+
+.fq {
+  color: #333;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+.fq-1 {
+  color: #333;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+.fk {
+  color: #333;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+.fk-1 {
+  color: #333;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+.fv {
+  color: #a02020;
+  vertical-align: text-top;
+  font-size: 80%;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+}
+
+.fv-1 {
+  color: #a02020;
+  vertical-align: text-top;
+  font-size: 80%;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+}
+
+.fm {
+  color: #333099;
+  vertical-align: text-top;
+  font-size: 80%;
+  font-style: italic;
+  font-weight: normal;
+  text-transform: none;
+  font-variant: normal;
+}
+
+.fm-1 {
+  color: #333099;
+  vertical-align: text-top;
+  font-size: 100%;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: none;
+  font-variant: normal;
+}
+
+.ft {
+  color: #333;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+.ft-1 {
+  color: #333;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+.f-1 {
+  color: #333;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+}
+
+.fsc {
+  color: #333;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: small-caps;
+}
+
+/* Cross-references */
+
+.x {
+  color: #333;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.xo {
+  color: #333;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.xt {
+  color: #333;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.xk {
+  color: #333;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.xq {
+  color: #333;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.xdc {
+}
+
+.cr {
+  font-size: 8pt;
+}
+
+.rt-2 {
+  font-size: 8pt;
+}
+
+/* Character-level styles */
+
+.it {
+  font-style: italic;
+}
+
+.it-1 {
+  font-style: italic;
+}
+
+.itw {
+  font-style: italic;
+}
+
+.itw-1 {
+  font-style: italic;
+}
+
+.qt {
+  font-style: italic;
+}
+
+.no {
+  color: #333;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.no-1 {
+  color: #333;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.bd {
+  font-weight: bold;
+}
+
+.bdit {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.bk {
+  font-style: italic;
+}
+
+.nd {
+  font-variant: small-caps;
+}
+
+.ndi {
+  font-variant: small-caps;
+  font-style: italic;
+}
+
+.nd2 {
+  font-size: 75%;
+  letter-spacing: 0.05em;
+}
+
+.s .nd2 {
+  font-size: 92%;
+  letter-spacing: 0em;
+}
+
+.sig {
+  font-style: italic;
+}
+
+.sc {
+  font-variant: small-caps;
+}
+
+.tl {
+  font-style: italic;
+}
+
+.add {
+  font-style: italic;
+}
+
+.lspc {
+  letter-spacing: 0.1em;
+}
+
+.ci {
+  font-style: italic;
+}
+
+.ci-1 {
+  font-style: italic;
+}
+
+.ci-2 {
+  font-style: italic;
+}
+
+.cc {
+  font-variant: small-caps;
+}
+
+.cc-1 {
+  font-variant: small-caps;
+}
